@@ -9,4 +9,3 @@ for i in range(n):
         break
 if x==0:
     print("-1")
-        
